@@ -8,6 +8,7 @@
 <h2> Certifications</h2>
 
 - [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
+- [Physical Red Teaming](https://imgur.com/QECL9QL)
 
 <h2>📺 Popular YouTube Videos</h2>
 
