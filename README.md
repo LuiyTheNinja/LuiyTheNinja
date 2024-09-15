@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
 - [Setting up Virtual Machines](link to project)
+- [KC7 Cyber Labs Profile](https://kc7cyber.com/profile/Luiy)
 
 <h2>💻 Programming Projects</h2>
 
