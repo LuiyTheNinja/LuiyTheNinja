@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
-- [Setting up Virtual Machines](link to project)
+- [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
 - [Scrubbing and Setting Up Media W/ Windows Tools](Link to project)
 
 <h2>💻 Programming Projects</h2>
