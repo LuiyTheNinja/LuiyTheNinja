@@ -14,12 +14,16 @@
 - [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
 - [Physical Red Teaming](https://imgur.com/QECL9QL)
 
+<h2>  </h2>
+
+
+<h2> Other Projects</h2>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab](link to video)
 - [Conductiong Reconnaisance](Link to video)
 
-<h2> </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
