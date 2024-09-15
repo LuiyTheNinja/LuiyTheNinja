@@ -9,6 +9,7 @@
 <h2>💻 Programming Projects</h2>
 
 - [Hello World!](link to project)
+- [Free CodeCamp](https://www.freecodecamp.org/Luiy)
 - [Python Journey: 100 Days of Python with Angela Wu](Link to repo)
 
 <h2>📜 Certifications</h2>
