@@ -6,7 +6,7 @@
 - [Setting up Virtual Machines](link to project)
 - [Hello World!](link to project)
 
-<h2><i class="fa-solid fa-file-certificate"></i> Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
 - [Physical Red Teaming](https://imgur.com/QECL9QL)
