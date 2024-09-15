@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [Google Cyber Security Certificate](link to photo)
+- [Google Cyber Security Certificate](https://imgur.com/a/KUzFvjf)
 
 <h2>📺 Popular YouTube Videos</h2>
 
