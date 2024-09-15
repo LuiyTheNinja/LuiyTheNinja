@@ -18,6 +18,8 @@
 
 
 <h2> Other Projects</h2>
+<h3> Game Servers</h3>
+- Valheim Server(link to project)
 
 <h2>📺 Popular YouTube Videos</h2>
 
