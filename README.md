@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Hello World!](link to project)
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
 - [Setting up Virtual Machines](link to project)
-- [Hello World!](link to project)
 
 <h2>📜 Certifications</h2>
 
