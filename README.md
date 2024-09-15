@@ -8,7 +8,7 @@
 - [Scrubbing and Setting Up Media W/ Windows Tools](Link to project)
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
 - [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
-- [Azure Sentinel SIEM w/ Heatmap](Link to project)
+- [Azure Sentinel SIEM w/ Heatmap](https://github.com/LuiyTheNinja/Azure-Sentinel-SIEM-w-Heatmap)
 
 <h2>💻 Programming Projects</h2>
 
