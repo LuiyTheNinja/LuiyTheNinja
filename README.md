@@ -3,9 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
-- [Hello World!](url to project)
+- [Setting up Virtual Machines](link to project)
+- [Hello World!](link to project)
 
-<h2> Certifications</h2>
+<h2><i class="fa-solid fa-file-certificate"></i> Certifications</h2>
 
 - [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
 - [Physical Red Teaming](https://imgur.com/QECL9QL)
