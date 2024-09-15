@@ -6,6 +6,10 @@
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
 - [Setting up Virtual Machines](link to project)
 
+<h2>💻 Programming Projects</h2>
+
+
+
 <h2>📜 Certifications</h2>
 
 - [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
