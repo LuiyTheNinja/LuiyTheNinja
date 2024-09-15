@@ -1,10 +1,14 @@
 <h1>Hi, I'm James! <br/><a href="https://www.linkedin.com/in/james-cooper-539261186/">Cybersecurity Professional</a></h1>
+<br/>
+<h2>Please note my github is a WIP in projects, some projects are not complete, and their are place holders for my sanity! Please check often :D</h2>
+<br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Scrubbing and Setting Up Media W/ Windows Tools](Link to project)
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
 - [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
-- [Scrubbing and Setting Up Media W/ Windows Tools](Link to project)
+- [Azure Sentinel SIEM w/ Heatmap](Link to project)
 
 <h2>💻 Programming Projects</h2>
 
