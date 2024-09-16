@@ -14,7 +14,7 @@
 
 - [Hello World!](link to project)
 - [Free CodeCamp](https://www.freecodecamp.org/Luiy)
-- [Python Journey: 100 Days of Python with Angela Wu](Link to repo)
+- [Python Journey: 100 Days of Python with Angela Wu](https://github.com/LuiyTheNinja/Python-Journey-100-Days-of-Python-with-Angela-Wu)
 
 <h2>📜 Certifications</h2>
 
