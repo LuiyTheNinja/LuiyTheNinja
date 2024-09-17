@@ -21,6 +21,7 @@
 - [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
 - [Physical Red Teaming](https://imgur.com/QECL9QL)
 - [KC7 Cyber Labs Profile](https://kc7cyber.com/profile/Luiy)
+- [TryHackMe Profile](https://tryhackme.com/p/luiytheninja1993)
 
 <h2>  </h2>
 
