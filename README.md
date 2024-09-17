@@ -5,10 +5,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Scrubbing and Setting Up Media W/ Windows Tools](Link to project)
+- [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
 - [Home SIEM Tool Lab](https://github.com/LuiyTheNinja/Home_SIEM_Tool/tree/main)
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
-- [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
+- [Scrubbing and Setting Up Media W/ Windows Tools](https://github.com/LuiyTheNinja/diskpart-usage-windows)
 
 <h2>💻 Programming Projects</h2>
 
