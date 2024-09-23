@@ -6,14 +6,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
+- [Building a Cloud-Hacking Lab](https://github.com/LuiyTheNinja/Cloud_Hack_Lab)
 - [Home SIEM Tool Lab](https://github.com/LuiyTheNinja/Home_SIEM_Tool/tree/main)
 - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md)
 - [Scrubbing and Setting Up Media W/ Windows Tools](https://github.com/LuiyTheNinja/diskpart-usage-windows)
 
 <h2>💻 Programming Projects</h2>
 
-- [Hello World!](link to project)
-- [Free CodeCamp](https://www.freecodecamp.org/Luiy)
 - [Python Journey: 100 Days of Python with Angela Wu](https://github.com/LuiyTheNinja/Python-Journey-100-Days-of-Python-with-Angela-Wu)
 
 <h2>📜 Certifications</h2>
@@ -22,13 +21,16 @@
 - [Physical Red Teaming](https://imgur.com/QECL9QL)
 - [KC7 Cyber Labs Profile](https://kc7cyber.com/profile/Luiy)
 - [TryHackMe Profile](https://tryhackme.com/p/luiytheninja1993)
+- [Free CodeCamp](https://www.freecodecamp.org/Luiy)
 
 <h2>  </h2>
 
 
 <h2> Other Projects</h2>
 <h3> Unreal Engine</h3>
+
 - [I'll Have Unreal Engine Stuff Here](link)
+- [Maybe Blender Projects]()
 
 <h3> Game Servers</h3>
 - Valheim Server Using Docker(link to project)
