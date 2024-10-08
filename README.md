@@ -22,6 +22,7 @@
 - [KC7 Cyber Labs Profile](https://kc7cyber.com/profile/Luiy)
 - [TryHackMe Profile](https://tryhackme.com/p/luiytheninja1993)
 - [Free CodeCamp](https://www.freecodecamp.org/Luiy)
+- [boot.dev Profile](https://www.boot.dev/u/ill-fatedspecial00)
 
 <h2>  </h2>
 
