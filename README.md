@@ -3,6 +3,10 @@
 <h2>Please note my github is a WIP; Some projects are not complete, and there are place holders for my sanity! Please check  back often :D</h2>
 <br/>
 
+<br/>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=989396" style='border:none;'></iframe>
+<br/>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Setting up Virtual Machines](https://github.com/LuiyTheNinja/VirtualMachineTutorial)
