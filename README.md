@@ -124,16 +124,13 @@
 
 <h3 align="center">GITHUB STATS<hr/></h3>
 
-
-
 <p align="center">
+  <!-- Fresh Import: Core GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiyTheNinja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="James' GitHub Stats"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuiyTheNinja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="James' GitHub Stats"/>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuiyTheNinja&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
-
+  <!-- Fresh Import: Top Languages Card (Filtering out JS/HTML/CSS noise) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiyTheNinja&layout=compact&langs_count=6&theme=dracula&hide=javascript,html,css" alt="Top Languages"/>
 </p>
-
 
 
 ---
