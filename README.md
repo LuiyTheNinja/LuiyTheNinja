@@ -125,11 +125,11 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-  <!-- Fresh Import: Core GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiyTheNinja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="James' GitHub Stats"/>
+  <!-- Dynamic GitHub Streak Stats Card -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula" alt="James' GitHub Stats"/>
 
-  <!-- Fresh Import: Top Languages Card (Filtering out JS/HTML/CSS noise) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiyTheNinja&layout=compact&langs_count=6&theme=dracula&hide=javascript,html,css" alt="Top Languages"/>
+  <!-- Fast, Reliable Language Card Alternative -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula" alt="Top Languages"/>
 </p>
 
 
