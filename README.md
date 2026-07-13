@@ -130,7 +130,7 @@
 
   <!-- Fast, Reliable Language Card Alternative -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula" alt="Top Languages"/>
-</p
+</p>
 
 
 ---
