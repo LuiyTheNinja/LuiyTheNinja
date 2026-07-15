@@ -107,7 +107,6 @@
 ---
 
 
-
 ### 🛠️ Languages & Tools
 
 <!-- Languages -->
@@ -148,7 +147,7 @@
 </table>
 
 <!-- Shells & OS -->
-<h4>🖥️ Operating Systems & Shells</h4>
+<h4>🖥️ Operating Systems & Hypervisors</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -156,6 +155,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
       </a>
       <br /><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="45" height="45" alt="Red Hat (RHCSA)"/>
+      </a>
+      <br /><sub><b>Red Hat</b></sub>
     </td>
     <td align="center" width="96">
       <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
@@ -190,7 +195,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Antu_nmap_icon.svg" width="45" height="45" alt="Nmap"/>
+        <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/nmap.svg" width="45" height="45" alt="Nmap"/>
       </a>
       <br /><sub><b>Nmap</b></sub>
     </td>
@@ -202,7 +207,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ---
