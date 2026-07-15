@@ -110,11 +110,47 @@
 
 ### 🛠️ Languages and Tools
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/28b61e6cdd10a5e6504d4444558e6f3eb3793739/topics/cpp/cpp.png" alt="C++"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="Rust"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark"></code>
+<!-- Languages -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" style="max-width: 100%;"/>
+</a>
+
+<!-- Operating Systems & Hypervisors -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" width="40" height="40" style="max-width: 100%;"/>
+</a>
+
+<!-- Security, Networking & Monitoring Tools -->
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="Nmap" width="40" height="40" style="max-width: 100%;"/>
+</a>
+<a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" alt="Wazuh SIEM" width="40" height="40" style="max-width: 100%;"/>
+</a>
 
 
 
