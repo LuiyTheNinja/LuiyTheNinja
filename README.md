@@ -228,8 +228,8 @@
 </p>
 
 <p align="center">
-  <!-- Top Languages Card (Stacked Below) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiyTheNinja&theme=dracula&layout=compact&cache_seconds=21600&hide_border=false" alt="Top Languages"/>
+  <!-- Top Languages Card (Community Mirror) -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuiyTheNinja&theme=dracula&layout=compact&cache_seconds=21600" alt="Top Languages"/>
 </p>
 
 ---
