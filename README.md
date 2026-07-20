@@ -1,3 +1,64 @@
+<h1 align="center">Hi 👋, I'm James!</h1>
+
+<h3 align="center">A dedicated Cybersecurity Student & Data Center Engineer 🛡️</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/james-cooper-539261186/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Update the URL below when your YouTube link is ready -->
+  <a href="url_to_youtube">
+    <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+> ⚠️ **Please note my GitHub is a WIP;** Some projects are not complete, and there are placeholders for my sanity! Please check back often :D
+
+---
+
+### About Me 😃
+
+- 🎓 Currently pursuing my Bachelor's in **Cybersecurity and Information Assurance**.
+- 🛠️ Building out an enterprise-grade **home lab** for network security, virtualization, and AD infrastructure testing.
+- 💻 Actively writing automated security scripts and custom tools in **Python, Rust, and C++**.
+- ⚡ Fun fact: Always tweaking something, whether it's a 15U server rack or a rotary engine.
+
+---
+
+### 📜 Certifications & Certificates
+
+*   **CompTIA Network+**
+*   **CompTIA Security+**
+*   **AWS Cloud Practitioner**
+*   📜 [Google Cyber Security Certificate](https://imgur.com/a/ccTeuxp)
+*   🥷 [Physical Red Teaming](https://imgur.com/QECL9QL)
+*   📊 [KC7 Cyber Labs Profile](https://kc7cyber.com/profile/Luiy)
+*   🎯 [TryHackMe Profile](https://tryhackme.com/p/luiytheninja1993)
+*   💻 [boot.dev Profile](https://www.boot.dev/u/ill-fatedspecial00)
+
+---
+
+### 👨‍💻 Cybersecurity Projects
+
+<!-- - [SparkForge Manufacturing Red-Team Engagement](https://github.com/LuiyTheNinja/Simulated-Red-Team-Engagement-SparkForge-Manufacturing-LLC-/blob/main/README.md) -->
+<!-- - [Building a Cloud-Hacking Lab](https://github.com/LuiyTheNinja/Cloud_Hack_Lab) -->
+<!-- - [Home SIEM Tool Lab](https://github.com/LuiyTheNinja/Home_SIEM_Tool/tree/main) -->
+<!-- - [Active Directory Home Lab](https://github.com/LuiyTheNinja/ActiveDirectoryLab/blob/main/README.md) -->
+
+*(Check back soon! Active lab documentation and penetration testing write-ups are being uploaded dynamically.)*
+
+### 💻 Programming Projects
+
+<!-- - [Simple Network Scanner (Nmap Lite)](https://github.com/LuiyTheNinja/-Simple-Network-Scanner-Nmap-Lite-W-Python-) -->
+*   📈 **PocketFlow** - A custom-built personal budgeting application architecture.
+*   🛸 **Mobile Space RPG** - Tooling and development modules.
+
+### 📝 Write-ups & Tracks
+
+*   [Angela Wu 100 Days of Python](https://github.com/LuiyTheNinja/Angela-Yu-Python-Boot)
+
+---
+
 ### 🛠️ Languages & Tools
 
 <!-- Programming & Scripting -->
@@ -161,9 +222,19 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-  <!-- Dynamic Real-Time GitHub Streak Stats Card -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=0" alt="James' GitHub Stats"/>
+  <!-- Dynamic GitHub Streak Stats Card (Cached for 10 minutes) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=600" alt="James' GitHub Stats"/>
 
-  <!-- Fast Real-Time Language Summary Card -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula&cache_seconds=0" alt="Top Languages"/>
+  <!-- Fast Language Summary Card (Cached for 10 minutes) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula&cache_seconds=600" alt="Top Languages"/>
 </p>
+
+---
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="James Cooper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="James Cooper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[youtube]: url_to_youtube
+[linkedin]: https://www.linkedin.com/in/james-cooper-539261186/
