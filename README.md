@@ -203,10 +203,10 @@
       <br /><sub><b>Wireshark</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="45" height="45" alt="Nmap"/>
-      </a>
-      <br /><sub><b>Nmap</b></sub>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="75" alt="Nmap"/>
+  </a>
+  <br /><sub><b>Nmap</b></sub>
     </td>
     <td align="center" width="96">
       <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
