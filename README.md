@@ -224,10 +224,12 @@
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=14400" alt="James' GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=21600" alt="James' GitHub Stats"/>
+</p>
 
-  <!-- Top Languages Card (with 4-hour cache) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiyTheNinja&theme=dracula&layout=compact&cache_seconds=14400" alt="Top Languages"/>
+<p align="center">
+  <!-- Top Languages Card (Stacked Below) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiyTheNinja&theme=dracula&layout=compact&cache_seconds=21600&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
