@@ -224,7 +224,7 @@
 
 <p align="center">
   <!-- GitHub Streak Stats (Minimum safe cache: 14400 seconds / 4 hours) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=28800" alt="James' GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=14400" alt="James' GitHub Stats"/>
 
   <!-- Language Summary Card -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula" alt="Top Languages"/>
