@@ -204,7 +204,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nmap/nmap-original.svg" width="45" height="45" alt="Nmap"/>
+        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="45" height="45" alt="Nmap"/>
       </a>
       <br /><sub><b>Nmap</b></sub>
     </td>
