@@ -222,11 +222,11 @@
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-  <!-- Dynamic GitHub Streak Stats Card (Cached for 10 minutes) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=600" alt="James' GitHub Stats"/>
+  <!-- GitHub Streak Stats (Minimum safe cache: 14400 seconds / 4 hours) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuiyTheNinja&theme=dracula&cache_seconds=14400" alt="James' GitHub Stats"/>
 
-  <!-- Fast Language Summary Card (Cached for 10 minutes) -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula&cache_seconds=600" alt="Top Languages"/>
+  <!-- Language Summary Card -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuiyTheNinja&theme=dracula" alt="Top Languages"/>
 </p>
 
 ---
