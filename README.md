@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <!-- Update the URL below when your YouTube link is ready -->
-  <a href="url_to_youtube">
+  <!-- <a href="url_to_youtube">
     <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</p>
+</p> -->
 
 > ⚠️ **Please note my GitHub is a WIP;** Some projects are not complete, and there are placeholders for my sanity! Please check back often :D
 
